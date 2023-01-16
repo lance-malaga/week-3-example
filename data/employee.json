@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Phoebe Buffay",
+        "career": "Masseuse",
+        "hobby": "Plays the guitar"
+    },
+    {
+        "name": "Chandler Bing",
+        "career": "Advertising",
+        "hobby": "Make jokes"
+    },
+    {
+        "name": "Monica Geller",
+        "career": "Chef",
+        "hobby": "Cleaning"
+    }
+]

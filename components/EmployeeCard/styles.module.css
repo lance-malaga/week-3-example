@@ -1,0 +1,11 @@
+.employee_container {
+    display: flex;
+    gap: 20px;
+    max-width: 520px;
+}
+
+.employee_container h2 {
+    border-bottom: 2px solid white;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}

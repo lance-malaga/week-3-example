@@ -2,16 +2,37 @@
     {
         "name": "Phoebe Buffay",
         "career": "Masseuse",
-        "hobby": "Plays the guitar"
+        "hobby": "Guitar, Singing",
+        "image": "/friends/phoebe.png"
     },
     {
         "name": "Chandler Bing",
-        "career": "Advertising",
-        "hobby": "Make jokes"
+        "career": "Advertising Copywriter",
+        "hobby": "Jokes, Foosball",
+        "image": "/friends/chandler.png"
+    },
+    {
+        "name": "Joey Tribianni",
+        "career": "Actor",
+        "hobby": "Food, Baywatch",
+        "image": "/friends/joey.png"
     },
     {
         "name": "Monica Geller",
-        "career": "Chef",
-        "hobby": "Cleaning"
+        "career": "Head Chef",
+        "hobby": "Cleaning, Organizing",
+        "image": "/friends/monica.png"
+    },
+    {
+        "name": "Rachel Green",
+        "career": "Fashion Executive",
+        "hobby": "Shopping, Cheese Cake",
+        "image": "/friends/rachel.png"
+    },
+    {
+        "name": "Ross Geller",
+        "career": "Paleontologist",
+        "hobby": "Dinosaurs, Fossils, Piano",
+        "image": "/friends/ross.png"
     }
 ]

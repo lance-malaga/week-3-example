@@ -48,6 +48,7 @@ export default function About() {
                         {employee && employee.map((info, index) => {
                             return (
                                 <EmployeeCard
+                                    key={index}
                                     image={info.image}
                                     name={info.name}
                                     career={info.career}

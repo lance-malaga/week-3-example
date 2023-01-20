@@ -1,0 +1,7 @@
+.card_container {
+    display: flex;
+    gap: 30px;
+    width: 85%;
+    align-items: center;
+    margin: 25px auto;
+}
